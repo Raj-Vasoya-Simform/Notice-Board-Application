@@ -12,6 +12,15 @@
 
   Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
+  ## Usage
+
+  - To use this project, follow these steps:
+
+  - Open the project directory.
+    Run the following command to start the backend server:
+
+    `ng server -o` or `ng serve` or `ng s -o`.
+
   ## Build
 
   Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
