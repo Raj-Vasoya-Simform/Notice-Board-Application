@@ -1,0 +1,98 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "Admin",
+      "password": "Test@123",
+      "email": "admin@gmail.com",
+      "role": "admin",
+      "isActive": true
+    },
+    {
+      "id": "vidur23",
+      "name": "Vidur",
+      "password": "Vidur@1234",
+      "email": "vidur@gmail.com",
+      "role": "student",
+      "isActive": true
+    },
+    {
+      "id": "Ugohel",
+      "name": "Utsav",
+      "password": "Utsav@321",
+      "email": "utsav@gmail.com",
+      "role": "student",
+      "isActive": false
+    },
+    {
+      "id": "mPatel",
+      "name": "Meet",
+      "password": "Meet@345",
+      "email": "met@gmail.com",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "Bhavin",
+      "name": "Bhavin",
+      "password": "Bhavin@321",
+      "email": "bhavin@gmail.com",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "abhay143",
+      "name": "Abhay",
+      "password": "Abhay@123",
+      "email": "abhay@gmail.com",
+      "role": "student",
+      "isActive": true
+    },
+    {
+      "id": "chirag11",
+      "name": "Chirag",
+      "password": "Chirag@123",
+      "email": "ch@info.com",
+      "role": "",
+      "isActive": false
+    },
+    {
+      "id": "ravi5453",
+      "name": "Ravi Patel",
+      "password": "Ravi@123",
+      "email": "ravi@info.com",
+      "role": "student",
+      "isActive": true
+    }
+  ],
+  "role": [
+    {
+      "id": "student",
+      "name": "Student"
+    },
+    {
+      "id": "admin",
+      "name": "Admin"
+    }
+  ],
+  "notice": [
+    {
+      "title": "Notice 10",
+      "description": "Description 10.",
+      "uploadDate": "2023-06-14T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "id": 6,
+      "title": "Notice 11",
+      "description": "Description added 11.",
+      "uploadDate": "2023-06-16T18:30:00.000Z"
+    },
+    {
+      "id": 7,
+      "title": "Football Match",
+      "description": "School conducting football match.",
+      "uploadDate": "2023-06-18T18:30:00.000Z"
+    }
+  ]
+}

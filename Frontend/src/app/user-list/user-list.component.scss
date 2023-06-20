@@ -1,0 +1,17 @@
+.table {
+  margin: 20px;
+
+  table {
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  th,
+  td {
+    white-space: nowrap;
+  }
+
+  mat-paginator {
+    margin-top: 20px;
+  }
+}
